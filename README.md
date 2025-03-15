@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hari Priya
-- 🌱 I’m currently learning Data Analysis
+  
 
 
 <!---
